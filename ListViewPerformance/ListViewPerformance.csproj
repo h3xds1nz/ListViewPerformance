@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<EnablePreviewFeatures>true</EnablePreviewFeatures>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net9.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWPF>true</UseWPF>
+	</PropertyGroup>
+	<ItemGroup>
+		<!--<Reference Include="C:\Users\somebody\source\repos\wpf\artifacts\bin\PresentationFramework\Release\net9.0\PresentationFramework.dll">
+		  <Private>True</Private>
+		</Reference>
+		<Reference Include="C:\Users\somebody\source\repos\wpf\artifacts\bin\WindowsBase\Release\net9.0\WindowsBase.dll">
+		  <Private>True</Private>
+		</Reference>
+		<Reference Include="C:\Users\somebody\source\repos\wpf\artifacts\bin\PresentationCore\Release\net9.0\PresentationCore.dll">
+		  <Private>True</Private>
+		</Reference>-->
+	</ItemGroup>
+
+</Project>
